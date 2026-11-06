@@ -110,3 +110,79 @@ This independent portfolio project demonstrates my analytical, financial modelin
 As an Information Systems and Analytics student, I developed this project to apply financial analysis and business intelligence concepts to real-world business performance.
 
 The project reflects skills relevant to **Data Analyst, Business Analyst, and Business Intelligence Analyst** internship opportunities.
+Financial Calculations & Methodology
+
+This project uses financial data from Target Corporation's annual reports to evaluate revenue growth, operating performance, and profitability.
+
+1. Year-over-Year Sales Growth
+
+Formula:
+
+Sales Growth (%) = (Current Year Net Sales − Previous Year Net Sales) / Previous Year Net Sales × 100
+
+Excel formula:
+=(B3-B2)/B2
+
+This metric measures how much Target's net sales increased or decreased compared with the previous year.
+
+2. Operating Profit Margin
+
+Formula:
+
+Operating Margin (%) = Operating Income / Net Sales × 100
+
+Excel formula:
+=C2/B2
+
+Operating margin measures how much operating profit Target generates for every dollar of net sales.
+
+3. Operating Income Growth
+
+Formula:
+
+Operating Income Growth (%) = (Current Year Operating Income − Previous Year Operating Income) / Previous Year Operating Income × 100
+
+Excel formula:
+=(C3-C2)/C2
+
+This metric evaluates changes in Target's operating profitability from one year to the next.
+
+4. Gross Profit
+
+Formula:
+
+Gross Profit = Net Sales − Cost of Sales
+
+This calculation measures the amount remaining after deducting the direct cost of merchandise sold.
+
+5. Gross Profit Margin
+
+Formula:
+
+Gross Profit Margin (%) = Gross Profit / Net Sales × 100
+
+This metric evaluates merchandise profitability before operating expenses.
+
+6. Cost of Sales Growth
+
+Formula:
+
+Cost of Sales Growth (%) = (Current Year Cost of Sales − Previous Year Cost of Sales) / Previous Year Cost of Sales × 100
+
+This calculation helps explain whether changes in merchandise costs contributed to improving or declining gross margins.
+
+Analytical Approach
+
+Collected historical financial information from Target Corporation's annual reports.
+
+Organized financial figures into structured Excel worksheets.
+
+Calculated financial KPIs using Excel formulas.
+
+Created charts comparing sales growth, operating income, and profitability.
+
+Interpreted financial trends and identified potential business challenges.
+
+Developed recommendations focused on inventory forecasting, cost management, and profitability improvement.
+
+Note: Percentage calculations in Excel use decimal values formatted as percentages. Financial figures are reported in USD millions, and annual comparisons use Target's fiscal-year reporting periods.
